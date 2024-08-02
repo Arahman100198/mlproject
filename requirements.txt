@@ -1,6 +1,6 @@
-pandas
-numpy
-seaborn
-matplotlib.pyplot
+pandas==2.0.2
+numpy==1.25.0
+seaborn==0.13.2
+matplotlib==3.8.0
 -e .
 
